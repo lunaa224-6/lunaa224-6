@@ -13,7 +13,7 @@ AI Student • Machine Learning • Creative Developer
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lunaa224-6&theme=tokyonight&border_radius=15"/>
+  <img src="https://streak-stats.demolab.com?user=lunaa224-6&theme=tokyonight&border_radius=15"/>
 </p>
 
 ## Tech Stack ✨
