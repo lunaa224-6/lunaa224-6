@@ -8,6 +8,21 @@
 AI Student • Machine Learning • Creative Developer
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lunaa224-6&show_icons=true&theme=tokyonight&border_radius=15"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lunaa224-6&theme=tokyonight&border_radius=15"/>
+</p>
+
+## Tech Stack ✨
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,java,sklearn,git,github,html,css" />
+</p>
+
+## Featured Projects 🌙
 ---
 
 ## About Me 💜
