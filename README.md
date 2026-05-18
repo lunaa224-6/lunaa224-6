@@ -1,7 +1,11 @@
-<h1 align="center">Hi, I'm Leen 🌙</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lunaa224-6/lunaa224-6/main/githubE.png" width="100%">
+</p>
+
+<h1 align="center">Leen 🌙</h1>
 
 <p align="center">
-Artificial Intelligence Student • Machine Learning • Creative Developer
+AI Student • Machine Learning • Creative Developer
 </p>
 
 ---
