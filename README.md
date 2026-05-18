@@ -5,24 +5,9 @@
 <h1 align="center">Leen 🌙</h1>
 
 <p align="center">
-AI Student • Machine Learning • Creative Developer
+  AI Student • Machine Learning • Creative Developer
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lunaa224-6&show_icons=true&theme=tokyonight&border_radius=15"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lunaa224-6&theme=tokyonight&border_radius=15"/>
-</p>
-
-## Tech Stack ✨
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,java,sklearn,git,github,html,css" />
-</p>
-
-## Featured Projects 🌙
 ---
 
 ## About Me 💜
@@ -36,13 +21,13 @@ AI Student • Machine Learning • Creative Developer
 
 ## Tech Stack ✨
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,java,sklearn,git,github,html,css" />
 </p>
 
 ---
 
-## Featured Projects 🌟
+## Featured Projects 🌙
 
 ### 🍽 Legends Restaurant System
 Full-stack Django restaurant management system with customer, staff, and manager roles.
@@ -58,8 +43,16 @@ NLP project for analyzing customer reviews.
 
 ---
 
+## GitHub Stats 📊
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lunaa224-6&show_icons=true&theme=tokyonight&border_radius=15" />
+</p>
+
+---
+
 ## Connect With Me 💫
 
-<p align="left">
+<p align="center">
   💼 <a href="https://www.linkedin.com/in/leen-hadari-9aa435373/">LinkedIn</a>
 </p>
