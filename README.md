@@ -43,13 +43,6 @@ NLP project for analyzing customer reviews.
 
 ---
 
-## GitHub Stats 📊
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lunaa224-6&show_icons=true&theme=tokyonight&border_radius=15" />
-</p>
-
----
 
 ## Connect With Me 💫
 
